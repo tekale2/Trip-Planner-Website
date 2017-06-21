@@ -1,5 +1,6 @@
 # csce606
 CSCE-606 Project: Trip Planning System
 
-# To everyone
-Please make sure that `master` branch is always runable before submitting your changes
+# Website
+The sample running version of this project is hosted on heroku at:
+https://young-cove-41269.herokuapp.com/
